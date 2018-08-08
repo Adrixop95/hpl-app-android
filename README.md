@@ -10,7 +10,7 @@ Projekt interfejsu graficznego został wykonany za pomocą oprogramowania [Figma
 ![Alt Text](https://i.imgur.com/Mb3xjsq.png)
 
 ## Działanie prototypu
-![Alt Text](https://i.imgur.com/FmLAuRq.gif)
+![Alt Text](https://i.imgur.com/FmLAuRq.gif = 120x120)
 
 ## Źródła
 IDE: Android Studio 3.1.3+  
