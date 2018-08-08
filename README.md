@@ -7,10 +7,11 @@ Aplikacja ta ma za zadanie wyświetlanie [strony głównej Hackintosh Polska](ht
 
 ## Projekt
 Projekt interfejsu graficznego został wykonany za pomocą oprogramowania [Figma](https://www.figma.com) oraz [Material Design Kit](https://materialdesignkit.com/android-gui/).
-![Alt Text](https://i.imgur.com/Mb3xjsq.png)
+
+<img src="/Resources/proj.png?raw=true" >
 
 ## Działanie prototypu
-<img src="/Resources/alfa.gif?raw=true" width="120px">
+<img src="/Resources/alfa.gif?raw=true">
 
 ## Źródła
 IDE: Android Studio 3.1.3+  
