@@ -7,4 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="hpl_name">Hackintosh Polska</string>
+    <string name="lorem_title">Lorem ipsum dolor sit amet</string>
+    <string name="lorem_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis est mauris. Nulla ac purus sit amet neque dapibus aliquam id eu turpis. Integer eu arcu ac est sagittis imperdiet. Nulla eu lorem sit amet justo varius cursus elementum non metus. Pellentesque ac gravida turpis. Suspendisse id nibh rhoncus, dictum neque ac, dictum ligula. Etiam accumsan luctus imperdiet. Etiam nulla nulla, pretium in magna id, tempor consectetur nibh. Aenean volutpat sed elit a scelerisque.</string>
+    <string name="title_activity_homepage_activity">homepage_activity</string>
 </resources>
