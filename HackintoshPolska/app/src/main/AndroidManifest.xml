@@ -22,7 +22,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".HomePageActivity" />
-        <activity android:name=".TutorialsActivity"></activity>
+        <activity android:name=".TutorialsActivity" />
+        <activity android:name=".HomeActivity"></activity>
     </application>
 
 </manifest>
